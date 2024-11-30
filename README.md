@@ -1,4 +1,5 @@
 # Hệ Mặt Trời 3D
+![image](https://github.com/user-attachments/assets/35231c25-9080-4b1a-84da-bd8fb29b8c6d)
 
 Mô phỏng hệ mặt trời 3D tương tác được sử dụng Babylon.js.
 
